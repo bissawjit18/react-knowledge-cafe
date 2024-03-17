@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 1,
+        "cover": "https://i.ibb.co/9ZJSXh0/cover-image-1.jpg",
+        "title": "The Art of Programming",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/DMpKNC9/author-1.jpg",
+        "posted_date": "2024-03-17",
+        "reading-time-minutes": "30",
+        "hashtags": [
+            "programming",
+            "coding",
+            "technology"
+        ]
+    },
+    {
+        "Id": 2,
+        "cover": "https://i.ibb.co/y4Z09j7/cover-image-2.jpg",
+        "title": "The Power of Positive Thinking",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/c6dRmyW/author-2.jpg",
+        "posted_date": "2024-03-16",
+        "reading-time-minutes": "45",
+        "hashtags": [
+            "motivation",
+            "self-help",
+            "psychology"
+        ]
+    },
+    {
+        "Id": 3,
+        "cover": "https://i.ibb.co/MSJYH0x/cover-image-3.jpg",
+        "title": "Cooking Simplified",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/5xTscJq/author-3.jpg",
+        "posted_date": "2024-03-15",
+        "reading-time-minutes": "20",
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "Id": 4,
+        "cover": "https://i.ibb.co/B35DMYd/cover-image-4.jpg",
+        "title": "The Art of Meditation",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/R6rPnRY/author-4.jpg",
+        "posted_date": "2024-03-14",
+        "reading-time-minutes": "40",
+        "hashtags": [
+            "meditation",
+            "mindfulness",
+            "wellness"
+        ]
+    },
+    {
+        "Id": 5,
+        "cover": "https://i.ibb.co/HNrS5sd/cover-image-5.jpg",
+        "title": "Financial Freedom: A Practical Guide",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/q98xfsZ/author-5.jpg",
+        "posted_date": "2024-03-13",
+        "reading-time-minutes": "60",
+        "hashtags": [
+            "finance",
+            "investing",
+            "wealth"
+        ]
+    }
+]
